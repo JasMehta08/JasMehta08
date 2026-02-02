@@ -12,22 +12,6 @@
 <br/>
 
 
-## 🚀 Open Source Contributions
-
-### **ROOT Framework (CERN)** — *C++ · PyROOT · High Energy Physics*
-
-- Contributed production-grade C++ code optimizing **core data processing pipelines**.
-- Enhanced **PyROOT bindings** and visualization modules for cross-language compatibility.
-- Authored comprehensive unit tests ensuring stability in a massive legacy codebase.
-- **Merged PRs**: [#19837](https://github.com/root-project/root/pull/19837), [#19656](https://github.com/root-project/root/pull/19656).
-- **Active PRs**: [#19791](https://github.com/root-project/root/pull/19791), [#20994](https://github.com/root-project/root/pull/20994).
-
-### **Kornia** — *Python · PyTorch · Computer Vision*
-
-- Refactored image augmentation modules to improve **memory efficiency** for large-scale datasets.
-- Aligned codebase with strict **CI/CD pipelines** and quality standards.
-- **Merged PR**: [#3323](https://github.com/kornia/kornia/pull/3323).
-
 <br/>
 
 ## 🛠️ Tech Stack
