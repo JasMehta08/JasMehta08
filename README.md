@@ -1,7 +1,7 @@
 <div id="header">
 
 🔭 **GitHub**: <a href="https://github.com/JasMehta08">github.com/JasMehta08</a><br>
-📫 **LinkedIn**: <a href="https://linkedin.com/in/jas-mehta">linkedin.com/in/jas-mehta</a><br>
+📫 **LinkedIn**: <a href="https://linkedin.com/in/jas-mehta">linkedin.com/in/jasmehta/</a><br>
 📧 **Email**: <a href="mailto:jasmehta805@gmail.com">jasmehta805@gmail.com</a><br>
 🧩 LeetCode: [Jassayin-](https://leetcode.com/u/Jassayin-/)<br>
 
